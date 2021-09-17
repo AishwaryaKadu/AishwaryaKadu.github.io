@@ -1,4 +1,4 @@
 Web Development
 
 url :
- https://aishwaryakadu.github.io/Pastry%20Shop/
+ https://PastryShop.github.io/Pastry%20Shop/
